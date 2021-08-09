@@ -1,0 +1,25 @@
+{
+    "name": "embapress",
+    "version": "1.0.0",
+    "description": "Hotsite Embapress",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lucascorrea30/embapress.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lucascorrea30/embapress/issues"
+    },
+    "homepage": "https://github.com/lucascorrea30/embapress#readme",
+    "dependencies": {
+        "next": "^11.0.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
